@@ -6,3 +6,4 @@
 4. Copy the file into the new branch (open <code>'Downloads'</code> folder in your windows file explorer and drag it over to VS explorer)
 5. Replace the file. If necessary, rename the file to match the original name.
 6. Run the code.
+7. Rename the template files (<code>'RB Template'</code> -> <code>'RB week-#'</code>).
