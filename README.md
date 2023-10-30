@@ -14,7 +14,7 @@
 ### Checkout the Target Branch
 Ensure you're on the branch to which you want to apply the changes
 
-<code>git checkout week-6</code>
+<code>git checkout week-#</code>
 
 ### Cherry-Pick the Commit
 Use the git cherry-pick command to apply changes from a specific commit in the main branch. Replace COMMIT_HASH with the actual commit hash
