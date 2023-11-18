@@ -1,5 +1,6 @@
 # fantasy-football
 
+On <code>dev</code>:
 1. Download the consolidated Excel file from the repo (this can just be on your local <code>Downloads</code> folder).
 2. Download the latest weeks individual data from fantasypros.com and copy it into the consolidated Excel file.
 4. Copy & replace the file into the repo (open <code>'Downloads'</code> folder in local file explorer and drag it over to the VS explorer)
