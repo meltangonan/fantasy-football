@@ -17,7 +17,7 @@ Execute the code for all models to incorporate and process the new data.
 
 ---
 
-## How to cherry pick specific commits
+## Cherry picking specific commits
 
 ### Checkout the Target Branch
 Ensure you're on the branch to which you want to apply the changes
