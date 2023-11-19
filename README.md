@@ -17,12 +17,12 @@ Execute the code for all models to incorporate and process the new data.
 
 ---
 
-## How to push and merge changes from <code>'main'</code> to <code>'week-#'</code> branches
+## How to cherry pick specific commits
 
 ### Checkout the Target Branch
 Ensure you're on the branch to which you want to apply the changes
 
-<code>git checkout week-#</code>
+<code>git checkout 'branch'</code>
 
 ### Cherry-Pick the Commit
 Use the git cherry-pick command to apply changes from a specific commit in the main branch. Replace COMMIT_HASH with the actual commit hash
