@@ -1,10 +1,21 @@
 # fantasy-football
 
-On <code>dev</code>:
-1. Download the consolidated Excel file from the repo (this can just be on your local <code>Downloads</code> folder).
-2. Download the latest weeks individual data from fantasypros.com and copy it into the consolidated Excel file.
-4. Copy & replace the file into the repo (open <code>'Downloads'</code> folder in local file explorer and drag it over to the VS explorer)
-6. Run the code for all models.
+## Updating with new data
+To update the project with the latest data, follow these steps on the <code>dev</code> branch:
+
+### 1. Download Consolidated Excel File
+Retrieve the latest consolidated Excel file from the repository. You can save it in your local Downloads folder.
+
+### 2. Download and Integrate Latest Data
+Visit [FantasyPros](https://www.fantasypros.com) and download the data for the latest week.
+Import the new data into the consolidated Excel file by copy & pasting the data into a new sheet.
+Save the file.
+
+### 3. Replace File in Repository
+Drag and drop the updated Excel file (from the Downloads folder) into the VS Code explorer, replacing the old file in the repository.
+
+### 4. Run Models
+Execute the code for all models to incorporate and process the new data.
 
 ---
 
