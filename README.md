@@ -4,7 +4,7 @@
 To update the project with the latest data, follow these steps on the <code>dev</code> branch:
 
 ### 1. Download Consolidated Excel File
-Retrieve the latest consolidated Excel file from the repository. You can save it in your local Downloads folder.
+Download the latest consolidated Excel file from the repository (from the VS Code explorer). You can save it in your local Downloads folder.
 
 ### 2. Download and Integrate Latest Data
 Visit [FantasyPros](https://www.fantasypros.com) and download the data for the latest week.
