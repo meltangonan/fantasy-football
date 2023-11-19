@@ -1,11 +1,19 @@
-# fantasy-football
+## Updating with new data
+To update the project with the latest data, follow these steps on the <code>dev</code> branch:
 
-1. Each week, create a new branch, <code>'week-#'</code>, from <code>'main'</code>.
-2. Download csv file from FanatsyPros with the updated data from the new week. This can just be downloaded into local <code>'Downloads'</code> folder.
-3. Ensure that the name of the csv file matches the original csv file (from <code>'main'</code>) name.
-4. Copy the file into the new branch (open <code>'Downloads'</code> folder in local file explorer and drag it over to the VS explorer)
-5. Replace the file. If necessary, rename the file to match the original name.
-6. Run the code.
+### 1. Download Consolidated Excel File
+Download the latest consolidated Excel file from the repository (from the VS Code explorer). You can save it in your local Downloads folder.
+
+### 2. Download and Integrate Latest Data
+Visit [FantasyPros](https://www.fantasypros.com) and download the data for the latest week.
+Import the new data into the consolidated Excel file by copy & pasting the data into a new sheet.
+Save the file.
+
+### 3. Replace File in Repository
+Drag and drop the updated Excel file (from the Downloads folder) into the VS Code explorer, replacing the old file in the repository.
+
+### 4. Run Models
+Execute the code for all models to incorporate and process the new data.
 
 ---
 
