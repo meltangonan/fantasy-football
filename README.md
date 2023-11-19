@@ -1,5 +1,3 @@
-# fantasy-football
-
 ## Updating with new data
 To update the project with the latest data, follow these steps on the <code>dev</code> branch:
 
