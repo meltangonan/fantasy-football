@@ -20,14 +20,21 @@ Execute the code for all models to incorporate and process the new data.
 ## Cherry picking specific commits
 
 ### Checkout the Target Branch
-Ensure you're on the branch to which you want to apply the changes
+Ensure you're on the <code>main</code> branch, the branch to which you want to apply the changes to
 
-<code>git checkout 'branch'</code>
+<code>git checkout 'main'</code>
 
 ### Cherry-Pick the Commit
-Use the git cherry-pick command to apply changes from a specific commit in the main branch. Replace COMMIT_HASH with the actual commit hash
+Use the git cherry-pick command to apply changes from a specific commit from the <code>dev</code> branch. Replace <code>COMMIT_HASH</code> with the actual commit hash
 
 <code>git cherry-pick COMMIT_HASH</code>
+
+### Complete the Cherry-Pick
+Finish the cherry-pick process on VS Code by syncing
+
+---
+
+## If there are conflicts
 
 ### Accept Changes from the main Branch
 To accept all changes from the main branch for the conflicted files, use:
