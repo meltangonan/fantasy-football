@@ -1,5 +1,5 @@
-## Updating with new data
-To update the project with the latest data, follow these steps on the <code>dev</code> branch:
+## How to update the model with new data
+To update the model with the latest data, follow these steps on the <code>dev</code> branch:
 
 ### 1. Download Consolidated Excel File
 Download the latest consolidated Excel file (`WR_Data`, `RB_Data`) from the repository (from the VS Code explorer). You can save it in your local Downloads folder.
