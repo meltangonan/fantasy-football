@@ -1,12 +1,12 @@
-## Updating with new data
-To update the project with the latest data, follow these steps on the <code>dev</code> branch:
+## How to update the model with new data
+To update the model with the latest data, follow these steps on the <code>dev</code> branch:
 
 ### 1. Download Consolidated Excel File
-Download the latest consolidated Excel file from the repository (from the VS Code explorer). You can save it in your local Downloads folder.
+Download the latest consolidated Excel file (`WR_Data`, `RB_Data`) from the repository (from the VS Code explorer). You can save it in your local Downloads folder.
 
 ### 2. Download and Integrate Latest Data
 Visit [FantasyPros](https://www.fantasypros.com) and download the data for the latest week.
-Import the new data into the consolidated Excel file by copy & pasting the data into a new sheet.
+Import the new data into the consolidated Excel file by copy & pasting the data into a new sheet, labeled `Week[#]`.
 Save the file.
 
 ### 3. Replace File in Repository
