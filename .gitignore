@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node (used only by the generated Excel builder)
+node_modules
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor settings
+.idea/
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Disposable working files
+tmp/
+
+# Preserve the reviewed annual draft package, but ignore agent-specific exports.
+outputs/*
+!outputs/2026/
+!outputs/2026/**
+outputs/2026/*.inspect.ndjson
+
+# Private/live league captures and reproducible public downloads
+data/raw/2026/sleeper_*.json
+data/raw/2026/fantasypros_2025_ppr.json
+data/raw/nflverse/
+
+# Keep macOS metadata ignored even inside explicitly preserved output folders.
+.DS_Store

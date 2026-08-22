@@ -1,0 +1,4 @@
+# Optional dependencies for opening and reproducing the historical notebooks.
+-r requirements.txt
+jupyterlab>=4,<5
+matplotlib>=3.8,<4
